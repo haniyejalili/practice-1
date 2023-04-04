@@ -1,4 +1,4 @@
-name = input("please insert stdent name ")
+name = input("please insert student name ")
 family_name = input("please insert student last neme ")
 grade1 = float(input(" first lesson"))
 grade2 = float(input(" second lesson "))
